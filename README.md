@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, Python, Java, JavaScript, PHP
 
 - 📫 How to reach me: t.me/NanaOz
-
+<image src="https://i.pinimg.com/originals/08/99/70/089970c13e87d1482149a506805eee15.jpg" alt="cosmos">
 <!--
 **NanaOz/NanaOz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
