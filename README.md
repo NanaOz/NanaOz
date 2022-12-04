@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, Python, Java, JavaScript, PHP
 
 - 📫 How to reach me: [Telegram](https://t.me/NanaOz "Telegram")
-<image src="https://i.pinimg.com/originals/e3/fc/c2/e3fcc20cb1dd4182d2f2355a66de3593.jpg" alt="cosmos">
+<image src="https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-end-of-year-sprint-black-gold-simple-image_17710.jpg" alt="cosmos">
 <!--
 **NanaOz/NanaOz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<image src="https://i.pinimg.com/originals/e3/fc/c2/e3fcc20cb1dd4182d2f2355a66de3593.jpg" alt="cosmos">
 -->
