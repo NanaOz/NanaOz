@@ -4,9 +4,7 @@
 
 - 📫 How to reach me: [Telegram](https://t.me/NanaOz "Telegram")
 
----
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nanaoz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -21,6 +19,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nanaoz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <image src="https://wallpaperaccess.com/full/7174084.png" alt="neiro">
