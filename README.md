@@ -22,7 +22,7 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nanaoz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nanaoz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <image src="https://wallpaperaccess.com/full/7174084.png" alt="neiro">
