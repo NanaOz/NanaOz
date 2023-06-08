@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning C#, Python, Java, JavaScript, PHP
 
+- 😄 My main direction: Android development
+
 - 📫 How to reach me: [Telegram](https://t.me/NanaOz "Telegram")
 
 
